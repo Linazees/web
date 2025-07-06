@@ -5,3 +5,4 @@
 - [Тест-кейсы для тестирования корзины и оплаты](https://github.com/user-attachments/files/20303499/G10-2025-05-19.pdf)
 - [Отчеты о дефекте тестирования корзины и оплаты](https://github.com/user-attachments/files/20349584/1.xlsx)
 - [Результаты тестового прогона из QASE тестирования корзины и оплаты](https://github.com/user-attachments/files/20349471/G10-Express%2Brun%2B2025_05_19.pdf)
+- [Перехват трафика с помощью Charles Proxy](https://drive.google.com/file/d/1QJoVA7mDPWUGyrKSaaWMMB03zJjuuJDJ/view?usp=sharing)
